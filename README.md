@@ -1,1 +1,2 @@
-[科学研究热点分析可视化系统使用说明书_英文.docx](https://github.com/user-attachments/files/20738226/_.docx)
+
+[Scientific-research-hot-spot-analysis-and-visualization-system.pdf](https://github.com/user-attachments/files/20738252/Scientific-research-hot-spot-analysis-and-visualization-system.pdf)
