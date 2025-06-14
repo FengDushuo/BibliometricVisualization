@@ -1,0 +1,2 @@
+handlers/models/word2vec_model.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text
+handlers/models/word2vec_model.syn1neg.npy filter=lfs diff=lfs merge=lfs -text

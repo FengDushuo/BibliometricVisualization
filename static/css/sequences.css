@@ -1,0 +1,141 @@
+/* body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: #fff;
+    width: 960px;
+    height: 700px;
+    margin-top: 10px;
+  } */
+  
+  #main {
+    float: left;
+    width: 850px;
+  }
+
+  #main2 {
+    float: left;
+    width: 850px;
+  }
+  
+  #sidebar {
+    float: right;
+    width: 100px;
+  }
+  
+  #sequence {
+    width: 600px;
+    height: 70px;
+  }
+  
+  #legend {
+    padding: 10px 0 0 3px;
+  }
+  
+  #sequence text, #legend text {
+    font-weight: 600;
+    fill: #fff;
+  }
+  
+  #chart {
+    position: relative;
+    width:750px;
+    height:750px;
+  }
+
+  #zoomcircle {
+    position:absolute;
+    z-index:1;
+  }
+  
+  #chart path {
+    stroke: #fff;
+  }
+
+  #zoomcircle {
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+    width:260;
+    height:260;
+  }
+
+
+  
+  #explanation {
+    position: absolute;
+    top: 260px;
+    left: 305px;
+    width: 140px;
+    text-align: center;
+    color: #666;
+    z-index: -1;
+  }
+  
+  #percentage {
+    font-size: 2.5em;
+  }
+
+  #sidebar2 {
+    float: right;
+    width: 100px;
+  }
+  
+  #sequence2 {
+    width: 600px;
+    height: 70px;
+  }
+  
+  #legend2 {
+    padding: 10px 0 0 3px;
+  }
+  
+  #sequence2 text, #legend2 text {
+    font-weight: 600;
+    fill: #fff;
+  }
+  
+  #chart2 {
+    position: relative;
+    width:750px;
+    height:750px;
+  }
+
+  #zoomcircle2 {
+    position:absolute;
+    z-index:1;
+  }
+  
+  #chart2 path {
+    stroke: #fff;
+  }
+
+  #zoomcircle2 {
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+    width:260;
+    height:260;
+  }
+
+
+  
+  #explanation2 {
+    position: absolute;
+    top: 260px;
+    left: 305px;
+    width: 140px;
+    text-align: center;
+    color: #666;
+    z-index: -1;
+  }
+  
+  #percentage2 {
+    font-size: 2.5em;
+  }
