@@ -24,10 +24,10 @@ The **Scientific Research Hot Spot Analysis and Visualization System (V1.0)** is
 
 ### Backend Setup
 
-1. Deploy the server application to your local environment:
-   `pip install -r requirements.txt`
-   `python server.py`
-2. After the server starts, you can access the system via the following:
+1. Deploy the server application to your local environment:\n
+   `pip install -r requirements.txt`\n
+   `python server.py`\n
+3. After the server starts, you can access the system via the following:
    - **Local**: `http://127.0.0.1:8000`
    - **Internal Network**: `http://<internal_IP>:8000`
    - **External Network**: `http://<external_IP>:8000`
