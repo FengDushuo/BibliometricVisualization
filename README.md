@@ -1,6 +1,7 @@
 # Scientific Research Hot Spot Analysis and Visualization System
 The guide can be found in
-[Scientific-research-hot-spot-analysis-and-visualization-system.pdf](https://github.com/user-attachments/files/20738252/Scientific-research-hot-spot-analysis-and-visualization-system.pdf)
+[Scientific-research-hot-spot-analysis-and-visualization-system.pdf](https://github.com/user-attachments/files/21012258/Scientific-research-hot-spot-analysis-and-visualization-system.pdf)
+
 
 ## Overview
 
