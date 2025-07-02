@@ -25,12 +25,14 @@ The **Scientific Research Hot Spot Analysis and Visualization System (V1.0)** is
 ### Backend Setup
 
 1. Deploy the server application to your local environment.
+   pip install -r requirements.txt
+   python server.py
 2. After the server starts, you can access the system via the following:
    - **Local**: `http://127.0.0.1:8000`
    - **Internal Network**: `http://<internal_IP>:8000`
    - **External Network**: `http://<external_IP>:8000`
 
-### Running the Software Package
+### Running the Software Package (will be announced soon)
 
 1. Download and unzip the software package.
 2. Run the `server.exe` to start the server on your machine.
@@ -58,7 +60,7 @@ The **Scientific Research Hot Spot Analysis and Visualization System (V1.0)** is
 
 ### Upload Data
 
-1. Users can upload musculoskeletal ultrasound image data for analysis. The system uses the **U-Net architecture** for recognizing aponeurosis and muscle bundles.
+1. Users can upload data for analysis. 
 2. Upload data through the "Upload Data" module and follow the instructions for selecting and visualizing the data.
 
 ### Literature Recommendations
