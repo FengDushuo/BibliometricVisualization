@@ -2,8 +2,9 @@ var canGetCookie = 0;//是否支持存储Cookie 0 不支持 1 支持
 var ajaxmockjax = 0;//是否启用虚拟Ajax的请求响 0 不启用  1 启用
 //默认账号密码
 
-var truelogin = "admin";
-var truepwd = "123456";
+// Removed hardcoded credentials
+// var truelogin = "admin";
+// var truepwd = "123456";
 
 var CodeVal = 0;
 
@@ -68,7 +69,9 @@ $('input[name="login"],input[name="pwd"]').keyup(function () {
 var open = 0;
 layui.use('layer', function () {
 	if (nowtitle == "登录界面" && showHelp == 1 ) {
-		var msgalert = '测试账号:' + truelogin + '<br/> 帐号密码:' + truepwd;
+		// Removed display of hardcoded credentials
+		// var msgalert = '测试账号:' + truelogin + '<br/> 帐号密码:' + truepwd;
+		var msgalert = '请使用您的账号和密码登录。';
 		var index = layer.alert(msgalert, { icon: 6, time: 4000, offset: 't', closeBtn: 0, title: '友情提示', btn: [], anim: 2, shade: 0 });
 		layer.style(index, {
 			color: '#777'
