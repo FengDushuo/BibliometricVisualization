@@ -1,7 +1,7 @@
 import pymysql
 
 mysqluser="root"
-mysqlpassword="19971130"   #这里填自己的mysql帐号和密码
+mysqlpassword="123456"   #这里填自己的mysql帐号和密码
 logindatabase="login_db"
 hostsrc="localhost"
 
