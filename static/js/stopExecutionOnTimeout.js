@@ -38,7 +38,7 @@ window.CP.PenTimer = {
                     action: "infinite-loop",
                     line: this._findAroundLineNumber()
                 };
-                parent.postMessage(JSON.stringify(o), "*")
+                parent.postMessage(JSON.stringify(o), "https://trusted-origin.com") // Specify the trusted origin here
             } else this._throwAnErrorToStopPen()
         } catch (t) {
             this._throwAnErrorToStopPen()
